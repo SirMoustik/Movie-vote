@@ -1,0 +1,7 @@
+.logo img{
+    width: 140px; /* redimensionne l'image à 50% de la largeur de son conteneur */
+    height: auto; /* conserve le rapport hauteur/largeur de l'image */
+    display: block; /* pour que l'image soit considérée comme un bloc */
+    margin-left: 0; /* pour centrer l'image horizontalement */
+    margin-right: auto; /* pour aligner l'image sur la droite */
+}
